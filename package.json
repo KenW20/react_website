@@ -13,7 +13,7 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://kenw20.github.io/website",
+  "homepage": "https://kenw20.github.io/react_website",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
